@@ -913,13 +913,12 @@ This heart disease prediction system demonstrates the practical application of m
 - Scikit-learn Documentation: https://scikit-learn.org
 - Streamlit Documentation: https://docs.streamlit.io
 - Machine Learning in Healthcare: https://www.nature.com/articles/s41746-019-0212-z
-- Heart Disease UCI Dataset: https://archive.ics.uci.edu/ml/datasets/heart+disease
-
+- Heart Disease UCI Dataset: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 ---
 
 **Document Version**: 1.0  
-**Last Updated**: 2024  
-**Author**: ML Development Team  
+**Last Updated**: 2026
+**Author**: ML Development Team [Tushar Dasgupta, Binith Roy, Rupraj Das, Sonchita Laskar]  
 **Status**: Complete & Production Ready
 
 ---
